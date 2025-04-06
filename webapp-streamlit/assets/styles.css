@@ -1,0 +1,20 @@
+.st-key-green button{
+    background-color: rgb(27, 1, 119);
+    color: rgb(255, 255, 255);
+    box-shadow: rgba(32, 31, 31, 0.35) 0px 7px 10px;
+    font-weight: 900;
+    border: none;
+
+}
+
+
+
+
+.st-key-green button:hover {
+    background-color: rgb(0, 204, 255);
+    color: rgb(255, 255, 255);
+    box-shadow: rgba(32, 31, 31, 0.35) 0px 7px 10px;
+    font-weight: 900;
+    border: none;
+
+}
